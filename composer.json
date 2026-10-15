@@ -1,0 +1,10 @@
+{
+  "name": "localtech/app",
+  "description": "LocalTech - local electronics inventory discovery & reservation",
+  "version": "1.0.0",
+  "require": {
+    "php": ">=8.1",
+    "ext-mongodb": "*",
+    "mongodb/mongodb": "^2.0"
+  }
+}
